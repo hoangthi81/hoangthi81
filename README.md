@@ -1,28 +1,38 @@
 
-# Hi, I'm Lê Ngọc Hoàng Thi! 👋
+<div align="center">
+  <img src="./GIS_Banner_Le_Ngoc_Hoang_Thi.png" alt="GIS Profile Banner" width="100%" />
+</div>
 
-🎓 Final-year Geographic Information Systems (GIS) Student  
-🌏 Based in Vietnam
+<br>
 
-## 🌍 About Me
+### Hello, I'm Thi
 
-I'm a GIS student interested in exploring geospatial technologies and their real-world applications.
+I'm a final-year **Geographic Information Systems (GIS)** student based in Vietnam, interested in how maps, spatial data and technology help us understand places and solve real-world problems.
 
-My goal is to develop a strong foundation across multiple GIS disciplines while building a portfolio of academic and personal projects.
+I'm building a multidisciplinary foundation through coursework and academic projects while exploring different directions in geospatial technology.
 
-## 🧭 Areas I'm Exploring
+### Exploring geospatial technology
 
-- 🗺️ GIS & Digital Cartography
-- 🛰️ Remote Sensing & Earth Observation
-- 🌐 WebGIS & Interactive Mapping
-- 📊 Spatial Data Analysis
-- 💻 Geospatial Programming
+| Field | What interests me |
+| :--- | :--- |
+| **GIS & Cartography** | Digital maps and geographic information |
+| **Remote Sensing** | Satellite imagery and Earth observation |
+| **Spatial Analysis** | Patterns and relationships in spatial data |
+| **WebGIS** | Interactive mapping experiences |
+| **Geospatial Programming** | Computational approaches to spatial problems |
 
-## 🚀 Featured Projects
+### Selected work
 
-Coming soon! I'm currently organizing my GIS projects and academic work.
+I'm currently organizing my university projects into documented case studies. I'll add the projects, methods and tools here as they are ready to share.
 
-## 📫 Connect With Me
+### Currently focusing on
 
-LinkedIn and personal portfolio coming soon!
+- Building a thoughtful, multidisciplinary GIS portfolio
+- Documenting academic work and the lessons behind each project
+- Strengthening my technical and analytical foundations
+- Exploring professional paths in the geospatial field
+
+### Connect
+
+[**GitHub**](https://github.com/hoangthi81) | LinkedIn and personal portfolio coming soon
   
