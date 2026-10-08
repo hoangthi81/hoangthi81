@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**hoangthi81/hoangthi81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lê Ngọc Hoàng Thi! 👋
 
-Here are some ideas to get you started:
+🎓 Final-year Geographic Information Systems (GIS) Student  
+🌏 Based in Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+
+I'm a GIS student interested in exploring geospatial technologies and their real-world applications.
+
+My goal is to develop a strong foundation across multiple GIS disciplines while building a portfolio of academic and personal projects.
+
+## 🧭 Areas I'm Exploring
+
+- 🗺️ GIS & Digital Cartography
+- 🛰️ Remote Sensing & Earth Observation
+- 🌐 WebGIS & Interactive Mapping
+- 📊 Spatial Data Analysis
+- 💻 Geospatial Programming
+
+## 🚀 Featured Projects
+
+Coming soon! I'm currently organizing my GIS projects and academic work.
+
+## 📫 Connect With Me
+
+LinkedIn and personal portfolio coming soon!
+  
