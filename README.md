@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./GIS_Banner_Le_Ngoc_Hoang_Thi.png" alt="GIS Profile Banner" width="100%" />
+<img src="./GIS_Banner_Le_Ngoc_Hoang_Thi.png" alt="GIS Profile Banner" width="100%" />
 </div>
 
 <br>
