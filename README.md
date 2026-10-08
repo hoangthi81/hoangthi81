@@ -1,38 +1,50 @@
 
 <div align="center">
-<img src="./Bản đồ địa hình GIS đa lớp tương lai.png" alt="GIS Profile Banner" width="100%" />
+  <img src="./Bản đồ địa hình GIS đa lớp tương lai.png" alt="3D GIS terrain and spatial data layers" width="100%" />
 </div>
 
 <br>
 
-### Hello, I'm Thi
+## Beyond the Map
 
-I'm a final-year **Geographic Information Systems (GIS)** student based in Vietnam, interested in how maps, spatial data and technology help us understand places and solve real-world problems.
+I'm interested in exploring how spatial data can be transformed into meaningful maps, useful analyses, and interactive digital experiences.
 
-I'm building a multidisciplinary foundation through coursework and academic projects while exploring different directions in geospatial technology.
+This space documents my academic journey, GIS projects, and the technical skills I'm developing along the way.
 
-### Exploring geospatial technology
+## Areas of Exploration
 
-| Field | What interests me |
-| :--- | :--- |
-| **GIS & Cartography** | Digital maps and geographic information |
-| **Remote Sensing** | Satellite imagery and Earth observation |
-| **Spatial Analysis** | Patterns and relationships in spatial data |
-| **WebGIS** | Interactive mapping experiences |
-| **Geospatial Programming** | Computational approaches to spatial problems |
+**GIS & Cartography**  
+Digital mapping and geographic information
 
-### Selected work
+**Remote Sensing**  
+Satellite imagery and Earth observation
 
-I'm currently organizing my university projects into documented case studies. I'll add the projects, methods and tools here as they are ready to share.
+**Spatial Data Analysis**  
+Exploring geographic patterns and spatial relationships
 
-### Currently focusing on
+**WebGIS**  
+Interactive maps and geospatial applications
 
-- Building a thoughtful, multidisciplinary GIS portfolio
-- Documenting academic work and the lessons behind each project
-- Strengthening my technical and analytical foundations
-- Exploring professional paths in the geospatial field
+**Geospatial Programming**  
+Computational approaches to geographic problems
 
-### Connect
+## Selected Work
 
-[**GitHub**](https://github.com/hoangthi81) | LinkedIn and personal portfolio coming soon
+I'm currently organizing my university projects into documented case studies.
+
+Each project will highlight its objectives, datasets, methodology, visual outputs, and my individual contributions.
+
+<!-- Featured projects will be added here. -->
+
+## Tools & Technologies
+
+This section will be updated with tools and technologies demonstrated through my academic projects.
+
+<!-- Add verified tools and technical skills here. -->
+
+## Let's Connect
+
+You can reach me through the contact information on my GitHub profile.
+
+LinkedIn and personal portfolio coming soon.
   
